@@ -1,0 +1,16 @@
+body {
+    background-color:gray;
+}
+
+.buttons {
+    margin: 20px ;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+}
+
+.stats {
+    margin-top: 20px;
+}
